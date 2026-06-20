@@ -58,6 +58,16 @@ const Projects = () => {
       tags: ["HTML", "CSS"],
       demoLink: "https://srushti2225.github.io/Restaurant-menu/",
       codeLink: "https://github.com/srushti2225/Restaurant-menu"
+    },
+    {
+      id: 3,
+      title: "Resume Builder and ATS Score Analyser",
+      category: "HTML, CSS & React.js",
+      description: "Resume ATS Analyzer & Builder Pro is a modern React-based SaaS web application that enables job seekers to create professional, scan-friendly resumes with a guided builder and instantly evaluate their compatibility using an interactive 100-point ATS scoring engine.",
+      image: "https://images.unsplash.com/photo-1602407294553-6ac9170b3ed0?q=80&w=774&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      tags: ["HTML", "CSS", "React.js"],
+      demoLink: "https://resume-builder-and-ats-score-analys.vercel.app/",
+      codeLink: "https://github.com/Srushti2225/Resume-builder-and-ats-score-analyser"
     }
   ];
 
