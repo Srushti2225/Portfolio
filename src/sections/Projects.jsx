@@ -2,9 +2,7 @@ import { useState } from 'react';
 import { ExternalLink, Sparkles, CheckCircle } from 'lucide-react';
 import { motion, AnimatePresence } from 'framer-motion';
 import './Projects.css';
-import '../assets/disney-clone.png'
-import '../assets/luxe.png'
-import '../assets/restaurant-menu.png'
+
 
 // Custom inline SVG for Github (deprecated in recent lucide-react)
 const Github = ({ size = 20, ...props }) => (
